@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Siddique.</h1>
 
-<h3>I'm an 18-year-old programmer with a passion for exploring new technologies and experimenting with code.My love for programming started at a young age, and I've been hooked ever since. I enjoy working with a variety of programming languages and tools, and I'm always looking for new challenges and opportunities to learn. Some of my favorite projects involve building web applications, mobile apps, and machine learning models. When I'm not coding, you can usually find me reading about the latest tech trends.
+<p>I'm an 18-year-old programmer with a passion for exploring new technologies and experimenting with code.My love for programming started at a young age, and I've been hooked ever since. I enjoy working with a variety of programming languages and tools, and I'm always looking for new challenges and opportunities to learn. Some of my favorite projects involve building web applications, mobile apps, and machine learning models. When I'm not coding, you can usually find me reading about the latest tech trends.
   
  
 
