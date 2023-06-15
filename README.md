@@ -9,7 +9,7 @@
 
   
   
-  - 🔭 I’m currently working and looking to collaborate on [Pool.It](https://github.com/legit-programmer/Pool.It)
+  - 🔭 I’m currently working [Web3](https://github.com/legit-programmer/Web3)
 
 - 📫 How to reach me **siddiquekhan1845@gmail.com**
 
