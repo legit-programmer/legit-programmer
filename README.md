@@ -8,8 +8,7 @@
 
 
   
-  
-  - 🔭 I’m currently working on [Unisum](https://github.com/legit-programmer/unisum)
+- 🔭 I’m currently working on ML and Deep learning.
 
 - 📫 How to reach me **siddiquekhan1845@gmail.com**
 
